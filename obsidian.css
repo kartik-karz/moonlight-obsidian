@@ -87,7 +87,7 @@ span.cm-formatting.cm-formatting-header.cm-formatting-header-6.cm-header.cm-head
 }
 
 .markdown-highlighting .internal-link .cl-underlined-text {
-    color: var(--text-accent)!important;
+    color: #5c73f2!important;
 }
 
 .markdown-highlighting .link .cl-underlined-text {
@@ -110,7 +110,7 @@ mark {
 }
 
 .markdown-highlighting .tag {
-    color: var(--text-accent)!important;
+    color: #5c73f2!important;
 }
 
 /* Tables */
